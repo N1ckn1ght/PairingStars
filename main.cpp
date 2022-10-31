@@ -38,6 +38,7 @@ void read(string path) {
 		}
 	}
 	curr.assign(m, -1);
+	in.close();
 }
 
 void write()
